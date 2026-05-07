@@ -1,16 +1,14 @@
-## Hi there 👋
+# Christopher Cloud
 
-<!--
-**chncloud1990/chncloud1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Specialist and Automation Engineer based in Houston, TX.
 
-Here are some ideas to get you started:
+I build workflow automations that connect business systems and remove manual work — Zapier, n8n, Google Apps Script, JavaScript, Python. Most recently I spent a year designing automations for a multi-location food service operation, including a DocuSign-to-QuickBooks pipeline, AI-powered sales call coaching, and CRM-to-CRM lead routing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently:
+- Studying for the RHCSA (EX200)
+- Building a local multi-agent system for personal workflow automation
+- Open to IT, sysadmin, and automation engineering roles
+
+**Tools I reach for:** JavaScript, Python, Bash, Google Apps Script, n8n, Zapier, REST APIs, Linux, Git
+
+Contact: chncloud1990@gmail.com · [LinkedIn](https://www.linkedin.com/in/christophercloud-6aab9b266)
